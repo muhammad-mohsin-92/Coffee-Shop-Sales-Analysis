@@ -10,15 +10,15 @@ The dataset used for this analysis can be accessed [here]([https://mavenanalytic
 - **Visualizations**: Various visualizations were created in Excel to present the sales trends, customer preferences, and key business metrics in a comprehensive and easily digestible format.
 
 ## Analysis Report
-Detailed answers to several analysis questions can be found in the PDF file [Coffee Shop Sales Analysis.pdf].
+Detailed answers to several analysis questions can be found in the PDF file ***Coffee Shop Sales Analysis.pdf***
 
 ## Final Dashboard
-The final dashboard summarizing the key insights is shown below:
+The final dashboard summarizing the key insights is shown in ***Coffee Shop Sales Analysis Dashboard.png***
 
-![Final Dashboard](Coffee Shop Sales Analysis Dashboard.png)
+
 
 ## Excel Source File
-The full analysis and dashboard summarizing the key insights is available in the Excel file [Coffee Shop Sales Analysis.xlsx]. Keep in mind, Excel file is protected with a personal password, so, you can only read it but can't edit or change its content.
+The full analysis and dashboard summarizing the key insights is available in the Excel file ***Coffee Shop Sales Analysis.xlsx***. Keep in mind, Excel file is protected with a personal password, so, you can only read it but can't edit or change its content.
 
 ## Contact
 If you have any questions or would like to discuss the project, feel free to reach out via email at 785.mohsin.muhammad@gmail.com.
