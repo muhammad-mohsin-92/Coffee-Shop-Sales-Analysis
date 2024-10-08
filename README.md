@@ -1,4 +1,4 @@
-# Coffee Shop Sales Data Analysis and Visualization
+# Coffee Shop Sales Data Analysis and Visualization (Microsoft Excel)
 
 This project involves the analysis and visualization of a coffee shop's sales data using Excel and Power Query. The goal is to explore sales patterns and trends, providing actionable insights through data transformation and visualizations.
 
