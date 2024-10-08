@@ -1,6 +1,6 @@
 # Coffee Shop Sales Data Analysis and Visualization (Microsoft Excel)
 
-This project involves the analysis and visualization of a coffee shop's sales data using Excel and Power Query. The goal is to explore sales patterns and trends, providing actionable insights through data transformation and visualizations.
+This project involves the analysis and visualization of a coffee shop's sales data using Excel and Power Query. The goal is to explore sales patterns and trends, providing actionable insights through data transformation and visualizations using Microsoft Excel because another version of Coffee Shop Sales Analysis Using Power BI is avaiable on my GitHub Profile which is more interactive and more informative.
 
 ## Dataset
 The dataset used for this analysis can be accessed [here]([https://mavenanalytics.io/data-playground?page=6&pageSize=5]), Dataset is named ***Coffee Shop Sales*** and also uploaded in the same repository for your ease.
