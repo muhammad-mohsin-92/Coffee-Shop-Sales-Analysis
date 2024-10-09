@@ -13,8 +13,8 @@ The dataset used for this analysis can be accessed [here]([https://mavenanalytic
 Detailed answers to several analysis questions can be found in the PDF file ***Coffee Shop Sales Analysis.pdf***
 
 ## Final Dashboard
-The final dashboard summarizing the key insights is shown in ***Coffee Shop Sales Analysis Dashboard.png***
-
+The final dashboard summarizing the key insights is shown below and given with the name of ***Coffee Shop Sales Analysis Dashboard.png*** and can be downloaded from the same working directory of this readme file.
+![Final Dashboard](https://github.com/muhammad-mohsin-92/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales%20Analysis%20Dashboard.png)
 
 
 ## Excel Source File
